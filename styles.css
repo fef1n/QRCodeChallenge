@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.box {
+    align-items: center;
+    text-align: center;
+    width: 20%;
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    margin: 200px auto;
+    border-radius: 5%;
+}
+
+.qr-code {
+    width: 90%;
+    border-radius: 5%;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400px;
+}
